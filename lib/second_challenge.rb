@@ -13,7 +13,7 @@ def second_challenge
       :name => "Romeo",
       :age => "15"
       },
-      :hero_friends => 
+      :hero_friends => {}
       },
     :capulet => {
        :patriarch => {
@@ -29,12 +29,7 @@ def second_challenge
       :age => "15",
       :status => "alive"
     },
-    :heroine_friends=> [
-      {
-        :name => "Steven",
-        :age => "30",
-        :attitude => "confused"
-      },
+    :heroine_friends=> {}
     }
 
   

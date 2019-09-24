@@ -12,9 +12,8 @@ def second_challenge
     :hero => {
       :name => "Romeo",
       :age => "15"
-    }
-      #your key/value pairs here!
       }, 
+      ]
     :capulet => {
        :patriarch => {
       :name => "Lord Capulet",

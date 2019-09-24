@@ -19,6 +19,7 @@ def second_challenge
          :age => "17",
          :attitude => "worried"
       ]
+      },
     :capulet => {
        :patriarch => {
       :name => "Lord Capulet",

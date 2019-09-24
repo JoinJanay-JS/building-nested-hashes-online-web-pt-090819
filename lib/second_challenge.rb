@@ -35,7 +35,7 @@ def second_challenge
         :age => "30",
         :attitude => "confused"
       },
-      }}
+      }
 
   
 end

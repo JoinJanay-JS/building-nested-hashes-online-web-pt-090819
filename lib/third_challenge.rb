@@ -6,7 +6,7 @@ def third_challenge
       :hero => {:name => "Romeo", :age => "15"},
       :hero_friends => []
    }, 
-   {:capulet => {
+   :capulet => {
       :patriarch => {:name => "Lord Capulet", :age => "50"},
       :matriarch => {:name => "Lady Capulet", :age => "51"},
       :heroine => {:name => "Steven", :age => "30", :attitude => "confused"},
